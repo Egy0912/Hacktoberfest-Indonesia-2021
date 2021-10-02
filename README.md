@@ -258,4 +258,4 @@ NB: gunakan `git --help` untuk melihat perintah-perintah git lainnya.
 
 ## Special Thanks
 
-* [belajargit](https://github.com/endymuhardin/belajarGit) - Repository Untuk Belajar Git
+* [belajargit](https://github.com/endymuhardin/belajarGit) - Repository Untuk Belajar Github
